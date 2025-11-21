@@ -1,0 +1,11 @@
+{
+  "name": "Matti Seppänen",
+  "email": "matti@example.com",
+  "password": "M@45mtg$",
+  "phone_number": "+358401234567",
+  "gender": "Male",
+  "date_of_birth": "2000-01-15",
+  "membership_status": "Active",
+  "account_verified": true,
+  "country": "Finland"
+}
